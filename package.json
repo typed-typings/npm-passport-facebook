@@ -1,7 +1,7 @@
 {
   "name": "@types/passport-facebook",
   "version": "2.1.0",
-  "description": "Types for https://github.com/thegameofcode/passport-facebook",
+  "description": "Types for https://github.com/jaredhanson/passport-facebook",
   "typings": "lib/index.d.ts",
   "scripts": {
     "lint": "tslint \"**/*.ts\" -e \"node_modules/**\" -e \"typings/**\" -e bundle.d.ts",
